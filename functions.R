@@ -8,3 +8,5 @@ my_function <- function(x){
 plot_function <- function(x){
   plot(x,x^2)
 }
+
+## adding ac omment 
