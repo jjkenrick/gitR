@@ -3,3 +3,8 @@
 my_function <- function(x){
   x^2
 }
+
+# plotting function
+plot_function <- function(x){
+  plot(x,x^2)
+}
