@@ -10,3 +10,6 @@ plot_function <- function(x){
 }
 
 ## adding ac omment 
+
+
+## add status, commit, push
